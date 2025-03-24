@@ -20,3 +20,6 @@ BetterInfinityRage is a plugin for **SCP: Secret Laboratory** designed to enhanc
 - **Tracking Targets:** When SCP-096 targets a player, that player is added to the tracking list. The plugin continuously tracks the position of the closest target.
 - **Hint System:** Based on the position of the closest target, SCP-096 receives a hint about the room the target is in, which it can use to better locate the player.
 - **Target Removal:** If a tracked player dies, they are removed from the list, and the plugin stops tracking if there are no active targets left.
+
+~~Readme is made by chatgpt cuz i'm lazy lol~~
+
